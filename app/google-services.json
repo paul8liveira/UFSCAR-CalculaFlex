@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644916421071",
+    "firebase_url": "https://ufscar-calculaflex.firebaseio.com",
+    "project_id": "ufscar-calculaflex",
+    "storage_bucket": "ufscar-calculaflex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644916421071:android:45302124f98d2ffb",
+        "android_client_info": {
+          "package_name": "br.blog.paul8liveira.calculaflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644916421071-gmokeanbe1mqt74rs80o94crnud7aa44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.blog.paul8liveira.calculaflex",
+            "certificate_hash": "c6f689982eee81dba971365d4cab2d2e3da4e79c"
+          }
+        },
+        {
+          "client_id": "644916421071-ktnnr5um73qs3c1r1j65vljm00ggm1rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQCFSslAx6TRqbu9lJyu4xE4uWNmpjD4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644916421071-ktnnr5um73qs3c1r1j65vljm00ggm1rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
